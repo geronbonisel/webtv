@@ -293,14 +293,14 @@
       "image": "https://imagizer.imageshack.com/img921/7020/ki0iPO.png",
       "stations": [
         {
-          "name": "Adictosaldeporte.com",
+          "name": "Adictosaldeporte",
           "image": "https://adictosaldeporte.com/wp-content/uploads/2020/04/balon-1.png",
           "url": "https://adictosaldeporte.com/",
           "userAgent": "",
           "embed": "true"
         },
         {
-          "name": "Adictosalatele.com",
+          "name": "Adictosalatele",
           "image": "https://adictosalatele.com/wp-content/uploads/2020/05/faviconadictosalatele-1.png",
           "url": "https://adictosalatele.com/",
           "userAgent": "",
@@ -320,14 +320,14 @@
           "embed": "true"
         },
         {
-          "name": "Revolucionarios TV",
+          "name": "RevolucionariosTV",
           "image": "https://imagizer.imageshack.com/img924/6756/ewBkMK.png",
           "url": "https://revolucionariostv.eu/",
           "embed": "true"
         },
         {
           "name": "latinowebtv",
-          "image": "https://scontent.fmid3-1.fna.fbcdn.net/v/t1.0-0/p75x225/123618673_3411623125541046_7512280433395261459_o.png?_nc_cat=106&ccb=2&_nc_sid=09cbfe&_nc_ohc=UXN9yiIFw70AX_p3ZVl&_nc_ht=scontent.fmid3-1.fna&oh=2a18c2a646d411fa3d6c6adf89015df9&oe=5FD129E3",
+          "image": "",
           "url": "https://www.latino-web-tv.com/",
           "embed": "true"
         },
