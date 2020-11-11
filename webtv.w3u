@@ -288,7 +288,7 @@
       "stations": [
       
          {
-          "name": "seleccionar canal y esperar a que aparezca un singno de play en la esquina superior derecha",
+          "name": "seleccionar canal y esperar a que aparezca un simbolo de play en la esquina superior derecha",
           "image": "https://imagizer.imageshack.com/img924/1217/MmCIBq.gif",
           "url": "http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3",
           "embed": ""
