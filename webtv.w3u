@@ -119,12 +119,6 @@
       "image": "https://imagizer.imageshack.com/img924/8739/FzGLdJ.png",
       "stations": [
         {
-          "name": "Si no os funciona conectar una VPN fuera de España. (No usar bloqueador de publicidad en esta sección).",
-          "image": "https://imagizer.imageshack.com/img924/1217/MmCIBq.gif",
-          "url": "http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3",
-          "embed": ""
-        },
-        {
           "name": "Calendario",
           "image": "https://imagizer.imageshack.com/img922/3803/JveTUM.jpg",
           "url": "https://dailysport.pw/",
@@ -290,8 +284,15 @@
     },
     {
       "name": "Eventos WEB",
-      "image": "https://imagizer.imageshack.com/img921/7020/ki0iPO.png",
+      "image": "https://imagizer.imageshack.com/img922/879/5XVY7X.png",
       "stations": [
+      
+         {
+          "name": "seleccionar canal y esperar a que aparezca un singno de play en la esquina superior derecha",
+          "image": "https://imagizer.imageshack.com/img924/1217/MmCIBq.gif",
+          "url": "http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3",
+          "embed": ""
+        },     
         {
           "name": "Adictosaldeporte",
           "image": "https://adictosaldeporte.com/wp-content/uploads/2020/04/balon-1.png",
@@ -327,7 +328,7 @@
         },
         {
           "name": "latinowebtv",
-          "image": "",
+          "image": "https://lh3.googleusercontent.com/Q8h-XX06ys4VCbmQs2e0n04rYdT8H1n-aQamQJEPZYLfj4trdqn8u5zUnqx945YmbKI=w220-rw",
           "url": "https://www.latino-web-tv.com/",
           "embed": "true"
         },
