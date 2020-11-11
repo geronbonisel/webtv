@@ -1,0 +1,333 @@
+{
+  "name": "web tv",
+  "author": "geron",
+  "info": "tardan en abrir",
+  "url": "",
+  "image": "",
+  "groups": [
+    {
+      "name": "sportzonline",
+      "image": "https://imagizer.imageshack.com/img921/5494/ofetvN.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "Calendario",
+          "image": "https://imagizer.imageshack.com/img922/3803/JveTUM.jpg",
+          "url": "https://sportzonline.to/prog.txt",
+          "embed": "true"
+        },
+        {
+          "name": "HD1",
+          "image": "https://imagizer.imageshack.com/img921/9821/NY2i0b.png",
+          "url": "https://sportzonline.co/channels/hd/hd1.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD2",
+          "image": "https://imagizer.imageshack.com/img923/4163/nka6hv.png",
+          "url": "https://sportzonline.co/channels/hd/hd2.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD3",
+          "image": "https://imagizer.imageshack.com/img922/3504/O7pEvm.png",
+          "url": "https://sportzonline.co/channels/hd/hd3.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD4",
+          "image": "https://imagizer.imageshack.com/img924/2447/FbZb97.png",
+          "url": "https://sportzonline.co/channels/hd/hd4.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD5",
+          "image": "https://imagizer.imageshack.com/img924/8139/QGZ5tB.png",
+          "url": "https://sportzonline.co/channels/hd/hd5.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD6",
+          "image": "https://imagizer.imageshack.com/img921/9004/r3ZceI.png",
+          "url": "https://sportzonline.co/channels/hd/hd6.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD7",
+          "image": "https://imagizer.imageshack.com/img923/7049/AreQST.png",
+          "url": "https://sportzonline.co/channels/hd/hd7.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD8",
+          "image": "https://imagizer.imageshack.com/img924/5093/UTusom.png",
+          "url": "https://sportzonline.co/channels/hd/hd8.php",
+          "isHost": "true"
+        },
+        {
+          "name": "BR1",
+          "image": "https://imagizer.imageshack.com/img922/5874/URnd3g.png",
+          "url": "https://sportzonline.co/channels/bra/br1.php",
+          "isHost": "true"
+        },
+        {
+          "name": "BR2",
+          "image": "https://imagizer.imageshack.com/img922/5874/URnd3g.png",
+          "url": "https://sportzonline.co/channels/bra/br2.php",
+          "isHost": "true"
+        },
+        {
+          "name": "BR3",
+          "image": "https://imagizer.imageshack.com/img922/5874/URnd3g.png",
+          "url": "https://sportzonline.co/channels/bra/br3.php",
+          "isHost": "true"
+        },
+        {
+          "name": "SPORT TV 1",
+          "image": "https://imagizer.imageshack.com/img922/5874/URnd3g.png",
+          "url": "https://sportzonline.co/channels/pt/sporttv1.php",
+          "isHost": "true"
+        },
+        {
+          "name": "SPORT TV 2",
+          "image": "https://imagizer.imageshack.com/img922/5874/URnd3g.png",
+          "url": "https://sportzonline.co/channels/pt/sporttv2.php",
+          "isHost": "true"
+        },
+        {
+          "name": "SPORT TV 3",
+          "image": "https://imagizer.imageshack.com/img922/5874/URnd3g.png",
+          "url": "https://sportzonline.co/channels/pt/sporttv3.php",
+          "isHost": "true"
+        },
+        {
+          "name": "SPORT TV 4",
+          "image": "https://imagizer.imageshack.com/img922/5874/URnd3g.png",
+          "url": "https://sportzonline.co/channels/pt/sporttv4.php",
+          "isHost": "true"
+        },
+        {
+          "name": "SPORT TV 5",
+          "image": "https://imagizer.imageshack.com/img922/5874/URnd3g.png",
+          "url": "https://sportzonline.co/channels/pt/sporttv5.php",
+          "isHost": "true"
+        }
+      ]
+    },
+    {
+      "name": "dailysport",
+      "image": "https://imagizer.imageshack.com/img924/8739/FzGLdJ.png",
+      "stations": [
+        {
+          "name": "Si no os funciona conectar una VPN fuera de España. (No usar bloqueador de publicidad en esta sección).",
+          "image": "https://imagizer.imageshack.com/img924/1217/MmCIBq.gif",
+          "url": "http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3",
+          "embed": ""
+        },
+        {
+          "name": "Calendario",
+          "image": "https://imagizer.imageshack.com/img922/3803/JveTUM.jpg",
+          "url": "https://dailysport.pw/",
+          "embed": "true"
+        },
+        {
+          "name": "HD1",
+          "image": "https://imagizer.imageshack.com/img921/9821/NY2i0b.png",
+          "url": "https://dailysport.pw/c1.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD2",
+          "image": "https://imagizer.imageshack.com/img923/4163/nka6hv.png",
+          "url": "https://dailysport.pw/c2.php",
+          "embed": "true"
+        },
+        {
+          "name": "HD3",
+          "image": "https://imagizer.imageshack.com/img922/3504/O7pEvm.png",
+          "url": "https://dailysport.pw/c3.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD4",
+          "image": "https://imagizer.imageshack.com/img924/2447/FbZb97.png",
+          "url": "https://dailysport.pw/c4.php",
+          "embed": "true"
+        },
+        {
+          "name": "HD5",
+          "image": "https://imagizer.imageshack.com/img924/8139/QGZ5tB.png",
+          "url": "https://dailysport.pw/c5.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD6",
+          "image": "https://imagizer.imageshack.com/img921/9004/r3ZceI.png",
+          "url": "https://dailysport.pw/c6.php",
+          "embed": "true"
+        },
+        {
+          "name": "HD7",
+          "image": "https://imagizer.imageshack.com/img923/7049/AreQST.png",
+          "url": "https://dailysport.pw/c7.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD8",
+          "image": "https://imagizer.imageshack.com/img924/5093/UTusom.png",
+          "url": "https://dailysport.pw/c8.php",
+          "embed": "true"
+        },
+        {
+          "name": "HD9",
+          "image": "https://imagizer.imageshack.com/img922/4672/FtgZMf.png",
+          "url": "https://dailysport.pw/c9.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD10",
+          "image": "http://imagizer.imageshack.com/a/img924/2678/QqkW5z.png",
+          "url": "https://dailysport.pw/c10.php",
+          "embed": "true"
+        },
+        {
+          "name": "HD11",
+          "image": "http://imagizer.imageshack.com/a/img922/7420/zsxxBq.png",
+          "url": "https://dailysport.pw/c11.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD12",
+          "image": "https://imagizer.imageshack.com/img923/4655/ts5OZX.png",
+          "url": "https://dailysport.pw/c12.php",
+          "embed": "true"
+        },
+        {
+          "name": "HD13",
+          "image": "https://imagizer.imageshack.com/img922/8679/ElNESe.png",
+          "url": "https://dailysport.pw/c13.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD14",
+          "image": "https://imagizer.imageshack.com/img923/3457/pIVxhP.png",
+          "url": "https://dailysport.pw/c14.php",
+          "embed": "true"
+        },
+        {
+          "name": "HD15",
+          "image": "https://imagizer.imageshack.com/img922/56/GbJFTX.png",
+          "url": "https://dailysport.pw/c15.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD16",
+          "image": "https://imagizer.imageshack.com/img921/263/7tWDLF.png",
+          "url": "https://dailysport.pw/c16.php",
+          "embed": "true"
+        },
+        {
+          "name": "HD17",
+          "image": "https://imagizer.imageshack.com/img922/8382/mQxNYI.png",
+          "url": "https://dailysport.pw/c17.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD18",
+          "image": "https://imagizer.imageshack.com/img923/5715/HD2YMW.png",
+          "url": "https://dailysport.pw/c18.php",
+          "embed": "true"
+        },
+        {
+          "name": "HD19",
+          "image": "https://imagizer.imageshack.com/img923/4193/5afFks.png",
+          "url": "https://dailysport.pw/c19.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD20",
+          "image": "https://imagizer.imageshack.com/img924/5046/s83vG5.png",
+          "url": "https://dailysport.pw/c20.php",
+          "embed": "true"
+        },
+        {
+          "name": "HD21",
+          "image": "https://imagizer.imageshack.com/img924/1883/2vfGPT.png",
+          "url": "https://dailysport.pw/c21.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD22",
+          "image": "https://imagizer.imageshack.com/img924/5043/cdy1jG.png",
+          "url": "https://dailysport.pw/c22.php",
+          "embed": "true"
+        },
+        {
+          "name": "HD23",
+          "image": "https://imagizer.imageshack.com/img923/9852/7zn9OK.png",
+          "url": "https://dailysport.pw/c23.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD24",
+          "image": "https://imagizer.imageshack.com/img921/4828/jnaUFh.png",
+          "url": "https://dailysport.pw/c24.php",
+          "embed": "true"
+        },
+        {
+          "name": "HD25",
+          "image": "https://imagizer.imageshack.com/img922/5773/Lpx3Zp.png",
+          "url": "https://dailysport.pw/c25.php",
+          "isHost": "true"
+        },
+        {
+          "name": "HD26",
+          "image": "https://imagizer.imageshack.com/img922/2029/Mlq4Bz.png",
+          "url": "https://dailysport.pw/c26.php",
+          "embed": "true"
+        }
+      ]
+    },
+    {
+      "name": "Eventos WEB",
+      "image": "https://imagizer.imageshack.com/img921/7020/ki0iPO.png",
+      "stations": [
+        {
+          "name": "Adictosaldeporte.com",
+          "image": "https://adictosaldeporte.com/wp-content/uploads/2020/04/balon-1.png",
+          "url": "https://adictosaldeporte.com/",
+          "userAgent": "",
+          "embed": "true"
+        },
+        {
+          "name": "Adictosalatele.com",
+          "image": "https://adictosalatele.com/wp-content/uploads/2020/05/faviconadictosalatele-1.png",
+          "url": "https://adictosalatele.com/",
+          "userAgent": "",
+          "embed": "true"
+        },
+        {
+          "name": "Rojadirecta",
+          "image": "https://imagizer.imageshack.com/img923/7400/DtqV16.png",
+          "url": "https://www.rojadirectaonlinetv.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36",
+          "embed": "true"
+        },
+        {
+          "name": "ZonaDeportesHD",
+          "image": "https://imagizer.imageshack.com/img923/5541/PQGKZA.png",
+          "url": "http://www.zonadeporteshd.tv/",
+          "embed": "true"
+        },
+        {
+          "name": "Revolucionarios TV",
+          "image": "https://imagizer.imageshack.com/img924/6756/ewBkMK.png",
+          "url": "https://revolucionariostv.eu/",
+          "embed": "true"
+        },
+        {
+          "name": "latinowebtv",
+          "image": "https://scontent.fmid3-1.fna.fbcdn.net/v/t1.0-0/p75x225/123618673_3411623125541046_7512280433395261459_o.png?_nc_cat=106&ccb=2&_nc_sid=09cbfe&_nc_ohc=UXN9yiIFw70AX_p3ZVl&_nc_ht=scontent.fmid3-1.fna&oh=2a18c2a646d411fa3d6c6adf89015df9&oe=5FD129E3",
+          "url": "https://www.latino-web-tv.com/",
+          "embed": "true"
+        },
