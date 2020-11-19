@@ -332,7 +332,13 @@
           "url": "http://www.supertelevisionhd.com/",
           "embed": "true"
         },
-        {
+	{
+          "name": "VIVOPLAY",
+          "image": "",
+          "url": "https://www.vivoplay.sigue.la/",
+          "embed": "true"
+        },
+	{
           "name": "latinowebtv",
           "image": "https://lh3.googleusercontent.com/Q8h-XX06ys4VCbmQs2e0n04rYdT8H1n-aQamQJEPZYLfj4trdqn8u5zUnqx945YmbKI=w220-rw",
           "url": "https://www.latino-web-tv.com/",
