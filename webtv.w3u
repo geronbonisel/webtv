@@ -333,6 +333,12 @@
           "embed": "true"
         },
         {
+          "name": "oxax.tv",
+          "image": "",
+          "url": "http://oxax.tv/",
+          "embed": "true"
+        },	
+        {
           "name": "LACALLEOCHO TV",
           "image": "",
           "url": "http://lacalleochotv.org/canales-de-deportes-online/",
