@@ -147,9 +147,9 @@
           "embed": "true"
         },
         {
-          "name": "TV PLUS GRATIS",
-          "image": "",
-          "url": "https://www.tvplusgratis.com/",
+          "name": "MAMAHD",
+          "image": "https://mamahd.best/wp-content/uploads/2018/09/LOGO12-1.png",
+          "url": "https://mamahd.best/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36",
 	  "embed": "true"
         },
