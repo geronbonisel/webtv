@@ -1,6 +1,6 @@
 {
   "name": "web tv",
-  "author": "geron",
+  "author": "anonimo",
   "info": "tardan en abrir",
   "url": "https://raw.githubusercontent.com/geronbonisel/webtv/main/webtv.w3u",
   "image": "",
@@ -115,174 +115,6 @@
       ]
     },
     {
-      "name": "dailysport",
-      "image": "https://imagizer.imageshack.com/img924/8739/FzGLdJ.png",
-      "stations": [
-        {
-          "name": "Calendario",
-          "image": "https://imagizer.imageshack.com/img922/3803/JveTUM.jpg",
-          "url": "https://dailysport.cloud/",
-          "embed": "true"
-        },
-        {
-          "name": "HD1",
-          "image": "https://imagizer.imageshack.com/img921/9821/NY2i0b.png",
-          "url": "https://dailysport.cloud/c1.php",
-          "isHost": "true"
-        },
-        {
-          "name": "HD2",
-          "image": "https://imagizer.imageshack.com/img923/4163/nka6hv.png",
-          "url": "https://dailysport.cloud/c2.php",
-          "embed": "true"
-        },
-        {
-          "name": "HD3",
-          "image": "https://imagizer.imageshack.com/img922/3504/O7pEvm.png",
-          "url": "https://dailysport.cloud/c3.php",
-          "isHost": "true"
-        },
-        {
-          "name": "HD4",
-          "image": "https://imagizer.imageshack.com/img924/2447/FbZb97.png",
-          "url": "https://dailysport.cloud/c4.php",
-          "embed": "true"
-        },
-        {
-          "name": "HD5",
-          "image": "https://imagizer.imageshack.com/img924/8139/QGZ5tB.png",
-          "url": "https://dailysport.cloud/c5.php",
-          "isHost": "true"
-        },
-        {
-          "name": "HD6",
-          "image": "https://imagizer.imageshack.com/img921/9004/r3ZceI.png",
-          "url": "https://dailysport.cloud/c6.php",
-          "embed": "true"
-        },
-        {
-          "name": "HD7",
-          "image": "https://imagizer.imageshack.com/img923/7049/AreQST.png",
-          "url": "https://dailysport.cloud/c7.php",
-          "isHost": "true"
-        },
-        {
-          "name": "HD8",
-          "image": "https://imagizer.imageshack.com/img924/5093/UTusom.png",
-          "url": "https://dailysport.cloud/c8.php",
-          "embed": "true"
-        },
-        {
-          "name": "HD9",
-          "image": "https://imagizer.imageshack.com/img922/4672/FtgZMf.png",
-          "url": "https://dailysport.cloud/c9.php",
-          "isHost": "true"
-        },
-        {
-          "name": "HD10",
-          "image": "http://imagizer.imageshack.com/a/img924/2678/QqkW5z.png",
-          "url": "https://dailysport.cloud/c10.php",
-          "embed": "true"
-        },
-        {
-          "name": "HD11",
-          "image": "http://imagizer.imageshack.com/a/img922/7420/zsxxBq.png",
-          "url": "https://dailysport.cloud/c11.php",
-          "isHost": "true"
-        },
-        {
-          "name": "HD12",
-          "image": "https://imagizer.imageshack.com/img923/4655/ts5OZX.png",
-          "url": "https://dailysport.cloud/c12.php",
-          "embed": "true"
-        },
-        {
-          "name": "HD13",
-          "image": "https://imagizer.imageshack.com/img922/8679/ElNESe.png",
-          "url": "https://dailysport.cloud/c13.php",
-          "isHost": "true"
-        },
-        {
-          "name": "HD14",
-          "image": "https://imagizer.imageshack.com/img923/3457/pIVxhP.png",
-          "url": "https://dailysport.cloud/c14.php",
-          "embed": "true"
-        },
-        {
-          "name": "HD15",
-          "image": "https://imagizer.imageshack.com/img922/56/GbJFTX.png",
-          "url": "https://dailysport.cloud/c15.php",
-          "isHost": "true"
-        },
-        {
-          "name": "HD16",
-          "image": "https://imagizer.imageshack.com/img921/263/7tWDLF.png",
-          "url": "https://dailysport.cloud/c16.php",
-          "embed": "true"
-        },
-        {
-          "name": "HD17",
-          "image": "https://imagizer.imageshack.com/img922/8382/mQxNYI.png",
-          "url": "https://dailysport.cloud/c17.php",
-          "isHost": "true"
-        },
-        {
-          "name": "HD18",
-          "image": "https://imagizer.imageshack.com/img923/5715/HD2YMW.png",
-          "url": "https://dailysport.cloud/c18.php",
-          "embed": "true"
-        },
-        {
-          "name": "HD19",
-          "image": "https://imagizer.imageshack.com/img923/4193/5afFks.png",
-          "url": "https://dailysport.cloud/c19.php",
-          "isHost": "true"
-        },
-        {
-          "name": "HD20",
-          "image": "https://imagizer.imageshack.com/img924/5046/s83vG5.png",
-          "url": "https://dailysport.cloud/c20.php",
-          "embed": "true"
-        },
-        {
-          "name": "HD21",
-          "image": "https://imagizer.imageshack.com/img924/1883/2vfGPT.png",
-          "url": "https://dailysport.cloud/c21.php",
-          "isHost": "true"
-        },
-        {
-          "name": "HD22",
-          "image": "https://imagizer.imageshack.com/img924/5043/cdy1jG.png",
-          "url": "https://dailysport.cloud/c22.php",
-          "embed": "true"
-        },
-        {
-          "name": "HD23",
-          "image": "https://imagizer.imageshack.com/img923/9852/7zn9OK.png",
-          "url": "https://dailysport.cloud/c23.php",
-          "isHost": "true"
-        },
-        {
-          "name": "HD24",
-          "image": "https://imagizer.imageshack.com/img921/4828/jnaUFh.png",
-          "url": "https://dailysport.cloud/c24.php",
-          "embed": "true"
-        },
-        {
-          "name": "HD25",
-          "image": "https://imagizer.imageshack.com/img922/5773/Lpx3Zp.png",
-          "url": "https://dailysport.cloud/c25.php",
-          "isHost": "true"
-        },
-        {
-          "name": "HD26",
-          "image": "https://imagizer.imageshack.com/img922/2029/Mlq4Bz.png",
-          "url": "https://dailysport.cloud/c26.php",
-          "embed": "true"
-        }
-      ]
-    },
-    {
       "name": "Paginas WEB",
       "image": "https://imagizer.imageshack.com/img922/879/5XVY7X.png",
       "stations": [
@@ -315,6 +147,18 @@
           "embed": "true"
         },
         {
+          "name": "TV PLUS GRATIS",
+          "image": "",
+          "url": "https://www.tvplusgratis.com/parrilla-gratis.html/",
+          "embed": "true"
+        },
+        {
+          "name": "AREA 51",
+          "image": "https://scontent.fmid3-1.fna.fbcdn.net/v/t1.0-1/s200x200/28576976_601519620182585_7443354880847391008_n.jpg?_nc_cat=111&ccb=3&_nc_sid=1eb0c7&_nc_ohc=P7YWsdnNjpQAX_Hy9Fy&_nc_ht=scontent.fmid3-1.fna&tp=7&oh=8fcb6bda0a3179acb52cd41c972ed2cb&oe=6059E59E",
+          "url": "https://area51deportiva.com/",
+          "embed": "true"
+        },
+	{
           "name": "ZonaDeportesHD",
           "image": "https://imagizer.imageshack.com/img923/5541/PQGKZA.png",
           "url": "http://www.zonadeporteshd.tv/",
