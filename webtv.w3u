@@ -154,6 +154,13 @@
 	  "embed": "true"
         },
         {
+          "name": "TELERIUM",
+          "image": "https://image.jimcdn.com/app/cms/image/transf/dimension=700x10000:format=png/path/s14c05910da25ef40/image/i08469b179010d581/version/1607721787/image.png",
+          "url": "https://telerium.me/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36",
+	  "embed": "true"
+        },	
+        {
           "name": "AREA 51",
           "image": "https://scontent.fmid3-1.fna.fbcdn.net/v/t1.0-1/s200x200/28576976_601519620182585_7443354880847391008_n.jpg?_nc_cat=111&ccb=3&_nc_sid=1eb0c7&_nc_ohc=P7YWsdnNjpQAX_Hy9Fy&_nc_ht=scontent.fmid3-1.fna&tp=7&oh=8fcb6bda0a3179acb52cd41c972ed2cb&oe=6059E59E",
           "url": "https://area51deportiva.com/",
