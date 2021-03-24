@@ -126,6 +126,13 @@
           "embed": ""
         },     
         {
+          "name": "IPTV MEXICO",
+          "image": "",
+          "url": "http://iptvcanales.gq/reproductor.php",
+          "userAgent": "",
+          "embed": "true"
+        },
+        {
           "name": "Adictosaldeporte",
           "image": "https://adictosaldeporte.com/wp-content/uploads/2020/04/balon-1.png",
           "url": "https://adictosaldeporte.com/",
