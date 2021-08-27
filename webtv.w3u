@@ -126,9 +126,9 @@
           "embed": ""
         },     
         {
-          "name": "IPTV MEXICO",
+          "name": "FOMNY",
           "image": "",
-          "url": "http://iptvcanales.gq/reproductor.php",
+          "url": "http://fomny.com/Espana-tv.php",
           "userAgent": "",
           "embed": "true"
         },
